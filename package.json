@@ -1,0 +1,17 @@
+{
+  "name": "10-first-server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "lint": "standard --verbose | snazzy",
+    "fix:code": "standard --fix"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "MIT",
+  "devDependencies": {
+    "snazzy": "^8.0.0",
+    "standard": "^14.3.1"
+  }
+}
